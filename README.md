@@ -2,7 +2,7 @@
 <h3 align="center">B.C.A Student | AI Engineer in Progress | ML • DL • LLM • Agentic AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=sarthak-jasani&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
 </p>
 
 ---
