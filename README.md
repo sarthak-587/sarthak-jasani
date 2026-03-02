@@ -1,108 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sarthak Jasani</h1>
-<h3 align="center">B.C.A Student | AI Engineer in Progress | ML • DL • LLM • Agentic AI</h3>
+<h1 align="center">🧠 Sarthak Jasani</h1>
+
+<h3 align="center">
+⚡ B.C.A Student | Future ASI Engineer | ML • DL • LLM • Agentic AI
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak-jasani&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Artificial+Intelligence;LLM+Engineer;Agentic+AI+Developer;Computer+Vision+%7C+NLP+%7C+Cloud+AI"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sarthak-jasani&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<table align="center">
+<tr>
+<td width="50%">
 
-🎓 I am a **B.C.A Student** passionate about building intelligent systems using **Artificial Intelligence & Data Technologies**.
+## 🎮 AI Engineer Status
 
-💡 I love working on:
-- Machine Learning & Deep Learning
-- Computer Vision & NLP
-- Large Language Models (LLMs)
-- Agentic AI Systems
-- Cloud & Big Data Solutions
 
-🚀 Currently learning and building **AI-powered real-world applications** from scratch.
+### 👨‍💻 About Me
+🎓 B.C.A Student  
+🤖 AI Developer  
+🧠 LLM From Scratch Builder  
+☁️ Cloud & Big Data Explorer
 
----
+### 🔗 Connect
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL@gmail.com)
+[![Portfolio](https://skillicons.dev/icons?i=github)](https://YOUR_PORTFOLIO_LINK.com)
 
-## 🌐 Connect With Me
+</td>
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO_LINK.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox-browser" />
-</a>
-</p>
-
----
-
-## 🧠 Skills & Technologies
-
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-Database-blue?style=for-the-badge)
-
-### 🤖 AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-purple?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-
-### 🧩 LLM Engineering
-- LLM from Scratch
-- Fine-tuning LLMs
-- Prompt Engineering
-- Agentic AI Systems
-
-### ☁️ Cloud & Big Data
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-Analytics-yellow?style=for-the-badge)
-
----
+<td width="50%">
 
 ## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ ASI Tech Arsenal
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+
+<!-- Core Tech Logos -->
+<img src="https://skillicons.dev/icons?i=python,mongodb,tensorflow,pytorch,aws,gcp,docker"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+
+<!-- AI Specialization Badges -->
+<img src="https://img.shields.io/badge/DBMS-Database-blue?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/NLP-Language%20AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-Engineering-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-FineTuning-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic-AI-cyan?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Computing-4285F4?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/Big%20Data-Analytics-yellow?style=for-the-badge&logo=apachehadoop"/>
+
 </p>
 
 ---
 
-## 🔥 Featured Areas
-
-✅ Machine Learning Projects  
-✅ Deep Learning Models  
-✅ Computer Vision Applications  
-✅ NLP & LLM Systems  
-✅ Agentic AI Workflows  
-✅ Cloud + Big Data Analytics  
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## 🎯 Current Goals
-
-- 🔬 Build Production-Level AI Systems
-- 🤖 Develop Autonomous AI Agents
-- ☁️ Deploy Scalable Cloud AI Applications
-- 🧠 Master LLM Fine-Tuning & Optimization
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just use AI — I build AI from scratch.
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+<p align="center">
+⭐ <b>"I don’t just use AI — I engineer intelligence."</b>
+</p>
